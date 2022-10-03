@@ -2,7 +2,7 @@
   "name": "nodebackend",
   "version": "1.0.0",
   "description": "sample to test zoom",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket1726/zoom-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanket1726/zoom-backend/issues"
+  },
+  "homepage": "https://github.com/sanket1726/zoom-backend#readme"
 }
